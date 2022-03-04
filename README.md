@@ -1,6 +1,10 @@
 # Portfólio de arataca89
 
-Início do projeto: 20220219
+## Formação:
+- Multimídia Digital (Tecnólogo)
+- Engenharia de Software (MBA)
+- Especialização em Estrutura de Dados
+- Atualmente cursando Ciência da Computação
 
 ## Java
 <p><a href="https://github.com/arataca89/java/tree/main/Box">Classe Box</a> - Implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI.</p> 
