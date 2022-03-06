@@ -7,7 +7,7 @@
 - Atualmente cursando Ciência da Computação
 
 ## Java
-<p><a href="https://github.com/arataca89/java/tree/main/Box">Classe Box</a> - Implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI.</p> 
+<p><a href="https://github.com/arataca89/java/tree/main/Box">Pacote Box</a> - Implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI.</p> 
 
 ## Contato
 <p>arataca89@gmail.com</p>
