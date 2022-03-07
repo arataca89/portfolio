@@ -17,4 +17,5 @@
 ## Links úteis:
  - [Sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
  - [Curso DIO Dominando IDEs Java](https://github.com/cami-la/curso-dio-dominando-ides-java)
+ - [Tratamento de exceções em Java](https://github.com/cami-la/exceptions-java)
  
