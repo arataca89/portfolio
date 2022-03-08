@@ -18,5 +18,5 @@
  - [Sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
  - [Curso DIO Dominando IDEs Java](https://github.com/cami-la/curso-dio-dominando-ides-java)
  - [Tratamento de exceções em Java](https://github.com/cami-la/exceptions-java)
- - [Introcução a Collections](https://github.com/cami-la/curso-dio-intro-collections)
+ - [Introdução a Collections](https://github.com/cami-la/curso-dio-intro-collections)
  
