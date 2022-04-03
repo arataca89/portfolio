@@ -15,7 +15,7 @@
 <p><a href="https://github.com/arataca89/java/tree/main/banco">Pacote banco</a>: implementa uma solução para o desafio <tt>Criando um Banco Digital com Java e Orientação a Objetos</tt> apresentado em um bootcamp da <a href="https://www.dio.me/">DIO</a>.
 
 ## Contato
-<p>arataca89@gmail.com</p>
+arataca89@gmail.com
 
 ## Links úteis:
  - [Sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
