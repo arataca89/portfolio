@@ -8,7 +8,6 @@
 
 ## C++
 <p><a href="https://github.com/arataca89/Cplusplus/tree/main/estrutura_de_dados/lista_encadeada_generica">Lista encadeada genérica</a></p>
-<p><a href="https://github.com/arataca89/Arithmetic_parser">Arithmetic parser</a> - avalia expressões aritméticas</p>
 
 ## Java
 <p><a href="https://github.com/arataca89/java/tree/main/Box">Pacote box</a> - Implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI.</p> 
